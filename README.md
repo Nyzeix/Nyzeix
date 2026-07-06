@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 
 
 ## 📊 Stats
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nyzeix&theme=2077)
-![Github Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nyzeix&theme=2077)
-![Github Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nyzeix&theme=2077)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nyzeix&theme=2077)
+[![](https://raw.githubusercontent.com/Nyzeix/Nyzeix/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Nyzeix/Nyzeix/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
+[![](https://raw.githubusercontent.com/Nyzeix/Nyzeix/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Nyzeix/Nyzeix/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
